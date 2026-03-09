@@ -1,1 +1,3 @@
-export interface HomePayload {\n  welcomeMessage: string;\n}
+export interface HomePayload {
+  welcomeMessage: string;
+}
