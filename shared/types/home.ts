@@ -1,0 +1,1 @@
+export interface HomePayload {\n  welcomeMessage: string;\n}
