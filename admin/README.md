@@ -1,7 +1,3 @@
 # Admin Client
 
-## Structure
-- /src
-
-## Technologies
-- Angular
+This is the README for the admin client of the Starbucks App.

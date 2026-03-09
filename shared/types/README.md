@@ -1,7 +1,3 @@
 # Shared Types
 
-## Structure
-- /types
-
-## Description
-Shared types for TypeScript
+This is the README for shared types used in the Starbucks App.

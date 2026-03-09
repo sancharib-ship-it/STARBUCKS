@@ -1,10 +1,3 @@
 # Backend
 
-## Structure
-- /src
-- /tests
-
-## Technologies
-- Node.js
-- Express.js
-- MongoDB
+This is the backend README for the Starbucks App.

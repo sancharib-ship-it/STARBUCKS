@@ -1,7 +1,3 @@
-# Analytics
+# Analytics Module
 
-## Structure
-- /src
-
-## Description
-Analytics module for tracking app usage
+This is the README for the analytics module of the Starbucks App.

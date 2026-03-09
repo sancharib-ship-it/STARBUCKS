@@ -1,9 +1,3 @@
 # Frontend
 
-## Structure
-- /src
-- /public
-
-## Technologies
-- React.js
-- Redux
+This is the frontend README for the Starbucks App.

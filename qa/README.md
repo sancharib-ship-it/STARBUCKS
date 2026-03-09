@@ -1,8 +1,3 @@
 # QA Assets
 
-## Structure
-- /tests
-- /reports
-
-## Description
-Quality Assurance assets and reports for app testing
+This is the README for QA assets of the Starbucks App.
